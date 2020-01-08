@@ -1,2 +1,2 @@
 # OOP
-Object-Oriented Programming done in Java
+These are examples of Object-Oriented Programming that I've done.
